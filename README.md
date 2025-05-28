@@ -1,6 +1,6 @@
 # Hello, I'm Reza Sharafdini! 👋
 
-I'm a **Computer Science student** at **K. N. Toosi University of Technology** with over 2 years of experience in **Django** development. I’m passionate about building web applications and exploring new technologies.
+I'm a **Computer Science student** at **K. N. Toosi University of Technology** with over 3 years of experience in **Django** development. I’m passionate about building web applications and exploring new technologies.
 
 ## 🌱 About Me
 
