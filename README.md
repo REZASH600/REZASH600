@@ -11,9 +11,6 @@ I'm a **Computer Science student** at **K. N. Toosi University of Technology** w
 
 [//]: # (- 🔗 Connect with me on [LinkedIn]&#40;https://www.linkedin.com/in/reza-sharafeddini&#41; and [Twitter]&#40;https://twitter.com/reza_sharafeddini&#41;.)
 
-## 🚀 My Projects
-
-- **[Workshop](https://github.com/REZASH600/DatabaseDesign/tree/main/projects/workshop_management_system)**
 
 ## 🛠️ Languages and Tools
 
