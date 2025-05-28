@@ -18,6 +18,8 @@ I'm a **Computer Science student** at **K. N. Toosi University of Technology** w
 - [Django](https://www.djangoproject.com/)
 - [Django REST Framework (DRF)](https://www.django-rest-framework.org/)
 - [Celery](https://docs.celeryproject.org/)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [GraphQL](https://graphql.org/)
 - [Docker](https://www.docker.com/)
 - [Linux](https://www.kernel.org/)
 - [MySQL](https://www.mysql.com/)
@@ -28,6 +30,7 @@ I'm a **Computer Science student** at **K. N. Toosi University of Technology** w
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [jQuery](https://jquery.com/)
+
 
 ## 📈 GitHub Stats
 
